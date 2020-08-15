@@ -700,6 +700,12 @@ text-shadow: 3px 3px 12px rgb(0, 0, 0);
     .section-5 h1{
         font-size: 40px;
     }
+    .form form .sub-btn{
+        padding: 5px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+       
+    }
 }
 @media only screen and (max-width:335){
   .section-3 h1{
