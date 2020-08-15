@@ -315,7 +315,7 @@ text-shadow: 3px 3px 12px rgb(0, 0, 0);
 .cards .card-1{
     position: relative;
     width: 250px;
-    height: 300px;
+    height: 350px;
     background: url(services-1.png);
     background-position: center;
     background-size: cover;
@@ -494,6 +494,7 @@ text-shadow: 3px 3px 12px rgb(0, 0, 0);
     width: 160px;
     padding: 10px;
     margin: auto;
+    margin-bottom: 55px;
     background: transparent;
     box-shadow: 2px 2px 8px rgb(10,10,10);
     outline: none;
